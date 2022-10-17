@@ -1,4 +1,7 @@
 
+def echo_hello2():
+    return "hello2"
+
 def echo_hello():
     return "hello"
 
