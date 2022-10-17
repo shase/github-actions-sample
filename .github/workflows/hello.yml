@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Run Hello
-      run: python py/hello.py
+      run: python python/hello.py
